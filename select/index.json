@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "眩耀夜行 (104期Ver.)",
+  "base_artist": "スリーズブーケ",
+  "createdAt": "2026-03-10T08:18:35.465730Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "眩耀夜行 (104期Ver.)",
+      "artist": "スリーズブーケ",
+      "has_synced": false,
+      "path": "select/pl_01_眩耀夜行_(104期Ver.)_スリーズブーケ.txt"
+    }
+  ]
+}
